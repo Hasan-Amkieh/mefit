@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "5943720034",
+    "project_id": "mefit-d6877",
+    "storage_bucket": "mefit-d6877.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5943720034:android:dcb28790c58c9be344793b",
+        "android_client_info": {
+          "package_name": "amkieh.hasan.mefit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5943720034-dptlfk8n24knmb5v75h0qv1hdun63heg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "amkieh.hasan.mefit",
+            "certificate_hash": "407e68bf8b4940f537e8ca1d22a2da90464973d3"
+          }
+        },
+        {
+          "client_id": "5943720034-ke6gfa3n1ohcq6sou7nmolicubs7r0di.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4nzqXlZlkxPkXN2MNm__3ecw4uvZPdXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5943720034-ke6gfa3n1ohcq6sou7nmolicubs7r0di.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
