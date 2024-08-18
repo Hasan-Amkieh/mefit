@@ -1,0 +1,66 @@
+name: me_fit
+description: A new Flutter project.
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  auto_size_text: 3.0.0
+  flutter_animate: 4.1.1+1
+  font_awesome_flutter: 10.1.0
+  intl: 0.18.1
+  percent_indicator: 4.2.2
+  url_launcher: 6.1.10
+  url_launcher_android: 6.0.27
+  url_launcher_ios: 6.1.4
+  url_launcher_platform_interface: 2.1.2
+  flutterflow_ui: ^0.2.0+1
+  introduction_screen: ^3.1.14
+  pedometer: ^4.0.1
+  flutter_svg: 2.0.9
+  permission_handler: ^11.3.1
+  flutter_launcher_icons: ^0.13.1
+  csv: ^6.0.0
+  flutter_barcode_scanner: ^2.0.0
+  http: 0.13.6
+  firebase_database: ^10.5.0
+  firebase_core: ^2.28.0
+  firebase_auth: ^4.19.0
+  firebase_storage: ^11.7.4
+  easy_debounce: 2.0.1
+  google_sign_in: ^6.2.1
+  flutter_calendar_week: ^3.0.2
+  flutter_fast_forms: 13.0.0
+  syncfusion_flutter_charts: ^25.1.40
+  awesome_notifications: any
+  image_picker: ^1.1.0
+  firebase_app_check: ^0.2.2+4
+  hive: ^2.2.3
+  hive_flutter: any
+
+
+dev_dependencies:
+  flutter_lints: 3.0.0
+  lints: 3.0.0
+
+flutter_icons:
+  android: true
+  image_path: "assets/images/MeFit_Icon.png"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+    - assets/images/
+    - workouts/
+    - assets/images/countries/
+    - assets/images/achievements/
+    - assets/videos/
+    - assets/audios/
+    - assets/lottie_animations/
+    - assets/rive_animations/
+    - assets/pdfs/
+    - assets/data/
+    - workout_days/
